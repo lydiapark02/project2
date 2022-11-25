@@ -1,0 +1,49 @@
+ <!DOCTYPE html>
+ <html>
+    <head>
+        <title> O'sign </title>
+        <link rel="stylesheet" type="text/css" href="home1stcss.css">
+        <!-- korean font -->
+        <link rel="preconnect" href="https://fonts.gstatic.com">
+        <link href="https://fonts.googleapis.com/css2?family=Black+And+White+Picture&family=Black+Han+Sans&family=Cute+Font&family=Do+Hyeon&family=Dokdo&family=East+Sea+Dokdo&family=Gaegu&family=Gamja+Flower&family=Gothic+A1&family=Gugi&family=Hi+Melody&family=Jua&family=Kirang+Haerang&family=Nanum+Brush+Script&family=Nanum+Gothic&family=Nanum+Gothic+Coding&family=Nanum+Myeongjo&family=Nanum+Pen+Script&family=Noto+Sans+KR&family=Noto+Serif+KR&family=Poor+Story&family=Single+Day&family=Song+Myung&family=Stylish&family=Sunflower:wght@300&family=Yeon+Sung&display=swap" rel="stylesheet">
+
+        <!-- sidebar menu -->
+        
+
+    </head>
+    <body>
+        <div class="container">
+            <h1>
+               <a href="#menu">O'sign</a>
+               <p> @ 수화 - 텍스트 번역 </p>
+            </h1>
+               
+           <div class="popover" id="menu">
+            <div class = 'content'>
+             <a href="#" class="close"></a>
+              <div class = 'nav'>
+               <ul class = 'nav_list'>
+                 
+                 <div class = 'nav_list_item'>
+               <li><a href="#"> 수화 번역 </a></li>
+                 </div>
+                <div class = 'nav_list_item'>
+               <li><a href="signbook.html"> 수화 도감 </a></li>
+                 </div>
+               <div class = 'nav_list_item'>
+               <li><a href="#"> 관련 기사 </a></li>
+                 </div>
+               <div class = 'nav_list_item'>
+               <li><a href="article.html"> 농인 소개글 or Q&A </a></li>
+                 </div>
+                <div class = 'nav_list_item'>
+               <li><a href="#"> 게시글 </a></li>
+                 </div>
+                 
+             </ul>
+             </div>
+            </div>
+            </div>
+            </div>
+    </body>
+ </html>
